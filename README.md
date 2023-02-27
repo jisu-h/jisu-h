@@ -10,7 +10,7 @@
 </div>
 <div align=center>
 	<a href="https://www.notion.so/ABOUT-ME-b281d5d9a9dd4e1d928728466d46e931">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=black" />
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
 </div>
