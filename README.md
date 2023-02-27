@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jisu%20github!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jisu%20Github!&fontSize=40)
 
 
 
