@@ -10,7 +10,7 @@
 	<h3> Portfolio 📁</h3>
 </div>
 <div align=center>
-	<a href="https://www.notion.so/ABOUT-ME-b281d5d9a9dd4e1d928728466d46e931">
+	<a href="https://surf-need-914.notion.site/ABOUT-ME-f1ff686e943f4e80a50b299a2788b076">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
